@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE4 Projects\\TopDownBulletHell\\Source\\TopDownBulletHell\\TopDownBulletHell.Build.cs",
+		"D:\\UE4 Projects\\TopDownBulletHell\\Source\\TopDownBulletHell.Target.cs",
+		"D:\\UE4 Projects\\TopDownBulletHell\\Source\\TopDownBulletHellEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

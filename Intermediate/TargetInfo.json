@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDownBulletHell",
+			"Path": "D:\\UE4 Projects\\TopDownBulletHell\\Source\\TopDownBulletHell.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDownBulletHellEditor",
+			"Path": "D:\\UE4 Projects\\TopDownBulletHell\\Source\\TopDownBulletHellEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

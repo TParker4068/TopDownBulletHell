@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TopDownBulletHell-7374.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\TopDownBulletHellEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\BaseShooter.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\PlayerShooter.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\TopDownBulletHell.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\TopDownBulletHellGameModeBase.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\BaseShooter.gen.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\PlayerShooter.gen.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\TopDownBulletHell.init.gen.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\TopDownBulletHellGameModeBase.gen.cpp.obj"
+"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\Default.rc2.res"
+/OUT:"D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\UE4Editor-TopDownBulletHell-7374.lib"
+/INCLUDE:IMPLEMENT_MODULE_TopDownBulletHell

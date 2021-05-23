@@ -1,0 +1,9 @@
+D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Development\TopDownBulletHell\Definitions.TopDownBulletHell.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\UE4 Projects\TopDownBulletHell\Source\TopDownBulletHell\Pawns\PlayerShooter.h
+D:\UE4 Projects\TopDownBulletHell\Source\TopDownBulletHell\Pawns\BaseShooter.h
+D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Inc\TopDownBulletHell\BaseShooter.generated.h
+D:\UE4 Projects\TopDownBulletHell\Intermediate\Build\Win64\UE4Editor\Inc\TopDownBulletHell\PlayerShooter.generated.h
