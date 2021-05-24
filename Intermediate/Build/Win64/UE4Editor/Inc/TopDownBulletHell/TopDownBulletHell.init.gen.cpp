@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTopDownBulletHell_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB22393E2,
-				0x281C73F0,
+				0x1502BC0C,
+				0x787112EA,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

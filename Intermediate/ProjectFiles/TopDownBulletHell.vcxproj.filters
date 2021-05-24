@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TopDownBulletHell.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{26C1872A-5EF8-4B4E-A0E3-B4ACBA4AFF54}</UniqueIdentifier>
+      <UniqueIdentifier>{6354AD98-CE1F-45ED-BDC8-30379FC5B9BD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TopDownBulletHell.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\TopDownBulletHellEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{7205CAC4-46E6-46DD-A571-8B79A33380DB}</UniqueIdentifier>
+      <UniqueIdentifier>{77F99925-ADCD-4DAC-8A31-EB0AC6E9DA2C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +29,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TopDownBulletHell">
-      <UniqueIdentifier>{A757B33F-66A2-4778-9208-DA4349A57B11}</UniqueIdentifier>
+      <UniqueIdentifier>{510AB661-E109-492E-BACF-CFC30912EBAA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TopDownBulletHell\TopDownBulletHell.Build.cs">
       <Filter>Source\TopDownBulletHell</Filter>
@@ -44,8 +46,17 @@
     <ClInclude Include="..\..\Source\TopDownBulletHell\TopDownBulletHellGameModeBase.h">
       <Filter>Source\TopDownBulletHell</Filter>
     </ClInclude>
+    <Filter Include="Source\TopDownBulletHell\Components">
+      <UniqueIdentifier>{0AD9D182-4BEF-4C5E-9C79-CB8912990E23}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TopDownBulletHell\Components\HealthComponent.cpp">
+      <Filter>Source\TopDownBulletHell\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownBulletHell\Components\HealthComponent.h">
+      <Filter>Source\TopDownBulletHell\Components</Filter>
+    </ClInclude>
     <Filter Include="Source\TopDownBulletHell\Pawns">
-      <UniqueIdentifier>{04DB4ACA-1A7E-4191-B45E-DB4A17092AC0}</UniqueIdentifier>
+      <UniqueIdentifier>{7F3F3DC6-68E9-4F15-A5A5-4051525EBECE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TopDownBulletHell\Pawns\BaseShooter.cpp">
       <Filter>Source\TopDownBulletHell\Pawns</Filter>
@@ -60,10 +71,10 @@
       <Filter>Source\TopDownBulletHell\Pawns</Filter>
     </ClInclude>
     <Filter Include="Source\TopDownBulletHell\Weapons">
-      <UniqueIdentifier>{2E36F2CB-451A-452B-A6E1-2180584A117B}</UniqueIdentifier>
+      <UniqueIdentifier>{CCA535AB-9D32-4509-9E1C-DD3EF68B725E}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source\TopDownBulletHell\Weapons\Guns">
-      <UniqueIdentifier>{46A381E6-6CF7-46B5-B928-3746FB7C4DB2}</UniqueIdentifier>
+      <UniqueIdentifier>{6E5F28ED-CB1D-4F30-A989-1AA0DFB111B3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TopDownBulletHell\Weapons\Guns\GunBase.cpp">
       <Filter>Source\TopDownBulletHell\Weapons\Guns</Filter>
